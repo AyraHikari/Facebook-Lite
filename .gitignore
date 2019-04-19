@@ -1,0 +1,6 @@
+# Remove cache
+.vs
+Facebook Lite.sln.cache
+Facebook Lite/Facebook Lite_TemporaryKey.pfx
+Facebook Lite/bin/*
+Facebook Lite/obj
