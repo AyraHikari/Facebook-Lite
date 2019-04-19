@@ -2,6 +2,10 @@
 
 [![PayPal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png)](https://paypal.me/AyraHikari)
 
+## Screenshot
+
+[![Screenshot](https://raw.githubusercontent.com/AyraHikari/Facebook-Lite/master/FbLite.png)](https://raw.githubusercontent.com/AyraHikari/Facebook-Lite/master/FbLite.png)
+
 ## Report a bug or request a feature
 
 You can report a bug or request a feature by [opening an issue](https://github.com/AyraHikari/Facebook-Lite/issues/new).
